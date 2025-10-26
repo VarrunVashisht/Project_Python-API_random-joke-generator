@@ -25,4 +25,6 @@ Tool	Purpose
 
 
 🧑‍💻 About the Author
-👋 Hi, I’m Varrun Vashisht, a passionate Python learner and aspiring data professional.
+👤 Varrun Vashisht
+🌏 Australia | Data Analytics & Cybersecurity Enthusiast
+📚 Lifelong learner, building projects step by step in Cybersecurity + Data Analytics.
